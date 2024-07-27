@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/jenniffer-viera-5794b4245/
 - ⚡ Fun fact: ...
 -->
+SKILLS:
+![Python] (https://img.shields.io/badge/Python-8A2BE2) </br>
