@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Skills:
-![Python](https://img.shields.io/badge/Python-8A2BE2) </br>
+![Python](https://img.shields.io/badge/Python-3DDC84) </br>
