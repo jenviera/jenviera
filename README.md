@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 ## Skills:
 ![Python](https://img.shields.io/badge/Python-3DDC84) </br>
+![SQL](https://img.shields.io/badge/Python-3DDC84) </br>
+![Sci-kitlearn](https://img.shields.io/badge/Python-3DDC84) </br>
