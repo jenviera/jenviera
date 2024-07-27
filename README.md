@@ -1,5 +1,9 @@
-## Hi there 👋
+## About me 👋
+Hola, soy Jenniffer Viera, una Licenciada en Turismo que se encuentra transicionando al mundo de Data Science. 
 
+Durante mis estudios con TripleTen, he adquirido experiencia en ciencia de datos y análisis, especializándome en Python, Pandas y modelos de Machine Learning como regresión lineal y bosques aleatorios. 
+
+Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadores. Si buscas un colaborador comprometido y apasionado por el data science, ¡contáctame! 🚀
 <!--
 **jenviera/jenviera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
