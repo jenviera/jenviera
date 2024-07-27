@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow&logoColor101010) </br>
 ![SQL](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=sql&logoColor=white&logoColor101010) </br>
 ![Sci-kitlearn](https://img.shields.io/badge/Scikit_learn-blue?style=for-the-badge&logo=scikit-learn&logoColor=yellow&logoColor101010) </br>
-![Pandas](https://img.shields.io/badge/pandas-violet?style=for-the-badge&logo=pandas-learn&logoColor=white&logoColor101010) </br>
+![Pandas](https://img.shields.io/badge/pandas-orange?style=for-the-badge&logo=pandas&logoColor=white&logoColor101010) </br>
+![Numpy](https://img.shields.io/badge/numpy-red?style=for-the-badge&logo=numpy&logoColor=white&logoColor101010) </br>
