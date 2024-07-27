@@ -4,7 +4,7 @@ Hola, soy Jenniffer Viera, apasionada de la tecnología que se encuentra transic
 Durante mis estudios con TripleTen, he adquirido experiencia en ciencia de datos y análisis, especializándome en Python, Pandas y modelos de Machine Learning como regresión lineal y bosques aleatorios. 
 
 Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadores. Si buscas un colaborador comprometido y apasionado por el data science, ¡contáctame! 🚀
-- 📫 https://www.linkedin.com/in/jenniffer-viera-5794b4245/
+- 📫 https://www.linkedin.com/in/jenniffer-viera/
 <!--
 **jenviera/jenviera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
