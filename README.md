@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Skills:
-![Python](https://img.shields.io/badge/Python-navyblue?style=for-the-badge&logo=python&logoColor=yellow&logoColor101010) </br>
-![SQL](https://img.shields.io/badge/SQL-yellow) </br>
-![Sci-kitlearn](https://img.shields.io/badge/Scikit_learn-blue) </br>
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow&logoColor101010) </br>
+![SQL](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=SQL&logoColor=white&logoColor101010) </br>
+![Sci-kitlearn](https://img.shields.io/badge/Scikit_learn-blue?style=for-the-badge&logo=scikit-learn&logoColor=yellow&logoColor101010) </br>
