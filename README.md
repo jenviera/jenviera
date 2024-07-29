@@ -1,9 +1,12 @@
-## About me 👋
-Hola, soy Jenniffer Viera, apasionada de la tecnología que se encuentra transicionando al mundo de Data Science. 
+### 👩‍💻: Sobre mí :
+* 1️⃣: Apasionada de la tecnología y con muchas ansias de comezar mi carrera profesional como Data Scientist. 
 
-Durante mis estudios con TripleTen, he adquirido experiencia en ciencia de datos y análisis, especializándome en Python, Pandas y modelos de Machine Learning como regresión lineal y bosques aleatorios. 
+* ✌: Actualmente estoy en la parte final de mi curso de Data Scientist en el BootCamp TripleTen, donde he adquirido experiencia en ciencia de datos y análisis, especializándome en Python, Pandas y modelos de Machine Learning como regresión lineal y bosques aleatorios. 
 
-Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadores. Si buscas un colaborador comprometido y apasionado por el data science, ¡contáctame! 🚀
+* three: Me encanta el desafío de seguir aprendiendo nuevas formas de escribir código, me he enamorado del apasionante mundo de la programación. 
+
+* four:Estoy entusiasmada por contribuir al éxito de tu equipo en proyectos innovadores. Si buscas un colaborador comprometido y apasionado por el data science, ¡contáctame! 🚀
+
 - 📫 https://www.linkedin.com/in/jenniffer-viera/
 <!--
 **jenviera/jenviera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
